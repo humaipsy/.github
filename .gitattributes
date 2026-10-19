@@ -1,0 +1,3 @@
+# Normalize line endings so a Windows checkout and a Linux checkout of the
+# profile README produce the same bytes, as in the other HumaiPsy repositories.
+* text=auto eol=lf
