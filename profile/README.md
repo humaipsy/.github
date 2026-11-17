@@ -1,7 +1,7 @@
 <h1 align="center">HumaiPsy</h1>
 
 <p align="center">
-  <strong>🔬 Open-source application for running randomised controlled trials (RCT) based human– social AI-agent interaction experiments 🔬</strong>
+  <strong>🔬 OSS app for running randomised controlled trials (RCT) based human– social AI-agent interaction experiments</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 | Repository | What it is | Status |
 | :--- | :--- | :--- |
 | **[humaipsy](https://github.com/humaipsy/humaipsy)** | Cross-platform desktop application (Windows, Linux, macOS) for running multi-condition (e.g. Cooperative vs Argumentative) chat-based experiments with a local or remote [Ollama](https://ollama.com) model, with a researcher-configurable number of trials per condition. 
-Every interaction trial is recorded to a CSV, a mirrored JSONL audit-trail ledger and a local SQLite chat log, and a read-only browser dashboard can show a live view on a secondary screen. | Active · [latest release](https://github.com/humaipsy/humaipsy/releases/latest) |
+| Active · [latest release](https://github.com/humaipsy/humaipsy/releases/latest) |
 
 ## Get involved
 
