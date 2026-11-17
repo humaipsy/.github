@@ -1,7 +1,7 @@
 <h1 align="center">HumaiPsy</h1>
 
 <p align="center">
-  <strong>🔬 OSS app for running randomised controlled trials (RCT) based human– social AI-agent interaction experiments</strong>
+  <strong>🔬 OSS app for running Randomized Controlled Trials (RCT) for Human–Social-AI-Agent interaction experiments</strong>
 </p>
 
 <p align="center">
@@ -29,5 +29,3 @@ Contributions are welcome from people who run experiments, and from people who w
 - **Handling participant data** — read [SECURITY.md](https://github.com/humaipsy/humaipsy/blob/main/SECURITY.md) before collecting any.
 
 ---
-
-<p align="center"><em>Human–AI interaction as a measurable phenomenon.</em></p>
