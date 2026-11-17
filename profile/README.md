@@ -17,8 +17,7 @@
 
 | Repository | What it is | Status |
 | :--- | :--- | :--- |
-| **[humaipsy](https://github.com/humaipsy/humaipsy)** | Cross-platform desktop application (Windows, Linux, macOS) for running multi-condition (e.g. Cooperative vs Argumentative) chat-based experiments with a local or remote [Ollama](https://ollama.com) model, with a researcher-configurable number of trials per condition. 
-| Active · [latest release](https://github.com/humaipsy/humaipsy/releases/latest) |
+| **[humaipsy](https://github.com/humaipsy/humaipsy)** | Cross-platform desktop application (Windows, Linux, macOS) for running multi-condition (e.g. Cooperative vs Argumentative) chat-based experiments with a local or remote [Ollama](https://ollama.com) model, with a researcher-configurable number of trials per condition. | Active · [latest release](https://github.com/humaipsy/humaipsy/releases/latest) |
 
 ## Get involved
 
