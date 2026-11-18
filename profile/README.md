@@ -1,7 +1,7 @@
 <h1 align="center">HumaiPsy</h1>
 
 <p align="center">
-  <strong>🔬 OSS app for running Randomized Controlled Trials (RCT) for Human–Social-AI-Agent interaction experiments</strong>
+  <strong>🔬 OSS app for Randomized Controlled Trials (RCT) for Human–Social-AI-Agent interaction experiments</strong>
 </p>
 
 <p align="center">
